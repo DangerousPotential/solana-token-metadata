@@ -2,7 +2,7 @@
     "name": "ArtScienceFestival",
     "symbol": "AFS",
     "description": "HUAT BIG BIG",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/DangerousPotential/solana-token-metadata/refs/heads/main/asf.jpg",
     "attributes": [
       {
         "trait_type": "Item",
