@@ -1,0 +1,12 @@
+{
+    "name": "ArtScienceFestival",
+    "symbol": "AFS",
+    "description": "HUAT BIG BIG",
+    "image": "",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Memez"
+      }
+    ]
+  }
